@@ -24,7 +24,7 @@ IoT Engineer & Data Scientist: Turning data into insights and hardware into smar
 - 🌐 Working on [Sloek Jardinier] - Making Vertical Farm simple and more accessible for everyone.
 
 ### 🌟 Fun Fact:
-- I'm a Buddhist practitioner who does meditations to explore the real world 🧘🏻‍♂️.
+- I'm an atheist, but I follow a Buddhist practitioner​​ with pure technic. I meditate to explore the real world 🧘🏻‍♂️.
 - I waste my time with movies 🎥.
 - I'm not addicted to coffee ☕ ; I just drink it every day.
 
