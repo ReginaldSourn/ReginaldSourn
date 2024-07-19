@@ -21,7 +21,7 @@ IoT Engineer & Data Scientist: Turning data into insights and hardware into smar
 
 ### 🚀 Current Projects:
 
-- 🌐 Working on [Sloek Jardinier] - Making Vertical Farm simple and more accessible for everyone.
+- 🌐 Working on Quodexa Project-
 
 ### 🌟 Fun Fact:
 - I'm an atheist, but I follow a Buddhist practitioner​​ with pure technic. I meditate to explore the real world 🧘🏻‍♂️.
