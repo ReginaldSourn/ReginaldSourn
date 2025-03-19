@@ -8,11 +8,11 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 
 - 🌐 **IoT and Embedded Systems:** STM32 microcontrollers | ESP32 modules | Raspberry Pi platforms
 - 🤖 **Machine Learning and Artificial Intelligence:** TensorFlow | PyTorch | scikit-learn
-- 📊 **Data Science:** Pandas | NumPy | Matplotlib | Seaborn
+- 📊 **Data Science:** Pandas | NumPy | Matplotlib 
 - 💻 **Full-Stack Software Development:** Python programming | Django framework | FastAPI
 - 🚀 **Functional and Concurrent Programming Paradigms:** Elixir | Gleam | Go | Phoenix Framework
 - 🐳 **DevOps and Infrastructure Automation:** Docker | Kubernetes | Continuous Integration/Continuous Deployment (CI/CD) via GitHub Actions
-- ☁️ **Cloud Computing Services:** MQTT protocols
+- ☁️ **Cloud Computing Services:** MQTT protocols | EMQX | AWS IoT 
 
 ---
 
@@ -36,15 +36,15 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 
 ## 📈 Analytical Overview of GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphaciel&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reginaldsourn&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaciel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldsourn&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Professional Contact Information
 
-- 📧 Email: *(Insert Your Professional Email)*
+- 📧 Email: (Rithy Sourn)[sourn.rithy@gmail.com]
 - 💼 LinkedIn: [Sourn Rithy](https://www.linkedin.com/in/sourn-rithy-013172a8/)
 - 🤖 Hackaday: [Reginald Sourn](https://hackaday.io/alphaciel)
 
@@ -56,8 +56,6 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 - ☕ Coffee aficionado; fueling innovative thought processes
 
 ---
-
-> "Innovation distinguishes between a leader and a follower." – *Steve Jobs*
 
 Let us collaborate and pioneer advancements together! 🚀🌍
 
