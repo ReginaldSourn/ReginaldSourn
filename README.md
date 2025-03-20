@@ -44,7 +44,6 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 
 ## 📫 Professional Contact Information
 
-- 📧 Email: (Rithy Sourn)[sourn.rithy@gmail.com]
 - 💼 LinkedIn: [Sourn Rithy](https://www.linkedin.com/in/sourn-rithy-013172a8/)
 - 🤖 Hackaday: [Reginald Sourn](https://hackaday.io/alphaciel)
 
