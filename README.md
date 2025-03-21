@@ -36,8 +36,6 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 
 ## 📈 Analytical Overview of GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reginaldsourn&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldsourn&layout=compact&theme=radical)
 
 ---
