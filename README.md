@@ -6,11 +6,11 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 
 ## 🛠️ Areas of Expertise
 
-- 🌐 **IoT and Embedded Systems:** STM32 microcontrollers | ESP32 modules | Raspberry Pi platforms
+- 🌐 **IoT and Embedded Systems:** STM32 microcontrollers | ESP32 modules | Raspberry Pi platforms | FreeRTOS
 - 🤖 **Machine Learning and Artificial Intelligence:** TensorFlow | PyTorch | scikit-learn
 - 📊 **Data Science:** Pandas | NumPy | Matplotlib 
 - 💻 **Full-Stack Software Development:** Python programming | Django framework | FastAPI
-- 🚀 **Functional and Concurrent Programming Paradigms:** Elixir | Gleam | Go | Phoenix Framework
+- 🚀 **Functional and Concurrent Programming Paradigms:** Elixir | Gleam (In learning Process)
 - 🐳 **DevOps and Infrastructure Automation:** Docker | Kubernetes | Continuous Integration/Continuous Deployment (CI/CD) via GitHub Actions
 - ☁️ **Cloud Computing Services:** MQTT protocols | EMQX | AWS IoT 
 
@@ -28,9 +28,8 @@ I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated 
 ## 💡 Research Interests and Long-Term Objectives
 
 - 🛰️ Development of edge computing frameworks and power-efficient IoT devices
-- 🔐 Advancement of cybersecurity measures within IoT ecosystems
 - 🌱 Contributions to open-source technological initiatives
-- 🚗 Research into autonomous robotics and intelligent systems
+
 
 ---
 
