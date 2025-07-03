@@ -1,4 +1,4 @@
-# 👋 Hello, You checking Bio that's weird. But it's okay 
+# 👋 Hello, I see you're looking at my bio; that's weird. But it's okay. 
 
 So, I am an **Internet of Things (IoT) Engineer** and **Data Scientist**, dedicated to integrating sophisticated hardware systems with advanced data analytics methodologies. My professional mission encompasses developing intelligent, interconnected solutions that capitalize on data-driven insights to enhance operational effectiveness.
 
